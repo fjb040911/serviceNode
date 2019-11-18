@@ -48,7 +48,7 @@ class DockerCmd extends Service {
    */
   async listImages(opts = {}) {
     opts.filters = {};
-    opts.filters.reference = [ "gs:*" ]
+    opts.filters.reference = [ `${this.app.config.imagePrefix}:*` ]
     return await dockerBean.listImages(opts);
   }
 

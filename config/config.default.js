@@ -24,6 +24,8 @@ module.exports = appInfo => {
     },
   };
 
+  config.imagePrefix = 'gs';
+
   // add your user config here
   const userConfig = {
     // myAppName: 'egg',
