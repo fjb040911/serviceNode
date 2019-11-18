@@ -1,5 +1,5 @@
 {
-  "name": "containerManager",
+  "name": "ServiceNode",
   "version": "0.0.1",
   "description": "Docker contianer manager",
   "private": true,
