@@ -1,0 +1,393 @@
+2019-10-08 17:25:09,693 INFO 5635 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-08 17:25:09,714 INFO 5635 [egg-multipart] stream mode enable
+2019-10-08 17:25:09,780 INFO 5635 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-10-08 17:25:09,782 INFO 5635 [egg-security] use csrf middleware
+2019-10-08 17:25:09,783 INFO 5635 [egg-security] use methodnoallow middleware
+2019-10-08 17:25:09,784 INFO 5635 [egg-security] use noopen middleware
+2019-10-08 17:25:09,785 INFO 5635 [egg-security] use nosniff middleware
+2019-10-08 17:25:09,785 INFO 5635 [egg-security] use xssProtection middleware
+2019-10-08 17:25:09,786 INFO 5635 [egg-security] use xframe middleware
+2019-10-08 17:25:09,786 INFO 5635 [egg-security] use dta middleware
+2019-10-08 17:25:09,787 INFO 5635 [egg-security] compose 7 middlewares into one security middleware
+2019-10-08 17:25:09,793 INFO 5635 [egg:core] dump config after load, 3ms
+2019-10-08 17:25:09,802 INFO 5635 [egg-watcher:application] watcher start success
+2019-10-08 17:25:09,807 INFO 5635 [egg:core] dump config after ready, 3ms
+2019-10-08 17:31:03,372 INFO 5660 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-08 17:31:03,391 INFO 5660 [egg-multipart] stream mode enable
+2019-10-08 17:31:03,426 INFO 5660 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-10-08 17:31:03,428 INFO 5660 [egg-security] use csrf middleware
+2019-10-08 17:31:03,428 INFO 5660 [egg-security] use methodnoallow middleware
+2019-10-08 17:31:03,428 INFO 5660 [egg-security] use noopen middleware
+2019-10-08 17:31:03,429 INFO 5660 [egg-security] use nosniff middleware
+2019-10-08 17:31:03,429 INFO 5660 [egg-security] use xssProtection middleware
+2019-10-08 17:31:03,429 INFO 5660 [egg-security] use xframe middleware
+2019-10-08 17:31:03,429 INFO 5660 [egg-security] use dta middleware
+2019-10-08 17:31:03,429 INFO 5660 [egg-security] compose 7 middlewares into one security middleware
+2019-10-08 17:31:03,436 INFO 5660 [egg:core] dump config after load, 3ms
+2019-10-08 17:31:03,444 INFO 5660 [egg-watcher:application] watcher start success
+2019-10-08 17:31:03,448 INFO 5660 [egg:core] dump config after ready, 3ms
+2019-10-08 17:34:06,231 INFO 5679 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-08 17:34:06,250 INFO 5679 [egg-multipart] stream mode enable
+2019-10-08 17:34:06,284 INFO 5679 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-10-08 17:34:06,286 INFO 5679 [egg-security] use csrf middleware
+2019-10-08 17:34:06,286 INFO 5679 [egg-security] use methodnoallow middleware
+2019-10-08 17:34:06,287 INFO 5679 [egg-security] use noopen middleware
+2019-10-08 17:34:06,287 INFO 5679 [egg-security] use nosniff middleware
+2019-10-08 17:34:06,287 INFO 5679 [egg-security] use xssProtection middleware
+2019-10-08 17:34:06,287 INFO 5679 [egg-security] use xframe middleware
+2019-10-08 17:34:06,288 INFO 5679 [egg-security] use dta middleware
+2019-10-08 17:34:06,288 INFO 5679 [egg-security] compose 7 middlewares into one security middleware
+2019-10-08 17:34:06,294 INFO 5679 [egg:core] dump config after load, 3ms
+2019-10-08 17:34:06,301 INFO 5679 [egg-watcher:application] watcher start success
+2019-10-08 17:34:06,305 INFO 5679 [egg:core] dump config after ready, 2ms
+2019-10-08 17:44:25,718 INFO 5716 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-08 17:44:25,733 INFO 5716 [egg-multipart] stream mode enable
+2019-10-08 17:44:25,761 INFO 5716 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-10-08 17:44:25,763 INFO 5716 [egg-security] use csrf middleware
+2019-10-08 17:44:25,763 INFO 5716 [egg-security] use methodnoallow middleware
+2019-10-08 17:44:25,763 INFO 5716 [egg-security] use noopen middleware
+2019-10-08 17:44:25,763 INFO 5716 [egg-security] use nosniff middleware
+2019-10-08 17:44:25,764 INFO 5716 [egg-security] use xssProtection middleware
+2019-10-08 17:44:25,764 INFO 5716 [egg-security] use xframe middleware
+2019-10-08 17:44:25,764 INFO 5716 [egg-security] use dta middleware
+2019-10-08 17:44:25,764 INFO 5716 [egg-security] compose 7 middlewares into one security middleware
+2019-10-08 17:44:25,770 INFO 5716 [egg:core] dump config after load, 3ms
+2019-10-08 17:44:25,779 INFO 5716 [egg-watcher:application] watcher start success
+2019-10-08 17:44:25,783 INFO 5716 [egg:core] dump config after ready, 2ms
+2019-10-08 17:44:50,313 INFO 5720 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-08 17:44:50,330 INFO 5720 [egg-multipart] stream mode enable
+2019-10-08 17:44:50,363 INFO 5720 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-10-08 17:44:50,365 INFO 5720 [egg-security] use csrf middleware
+2019-10-08 17:44:50,365 INFO 5720 [egg-security] use methodnoallow middleware
+2019-10-08 17:44:50,366 INFO 5720 [egg-security] use noopen middleware
+2019-10-08 17:44:50,366 INFO 5720 [egg-security] use nosniff middleware
+2019-10-08 17:44:50,366 INFO 5720 [egg-security] use xssProtection middleware
+2019-10-08 17:44:50,366 INFO 5720 [egg-security] use xframe middleware
+2019-10-08 17:44:50,367 INFO 5720 [egg-security] use dta middleware
+2019-10-08 17:44:50,367 INFO 5720 [egg-security] compose 7 middlewares into one security middleware
+2019-10-08 17:44:50,373 INFO 5720 [egg:core] dump config after load, 3ms
+2019-10-08 17:44:50,380 INFO 5720 [egg-watcher:application] watcher start success
+2019-10-08 17:44:50,384 INFO 5720 [egg:core] dump config after ready, 2ms
+2019-10-08 18:03:15,209 WARN 5720 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-10-08 19:46:31,855 WARN 5720 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-10-08 19:48:39,549 WARN 5720 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-10-08 20:04:24,456 WARN 5720 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-10-08 20:41:17,451 WARN 5720 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-10-08 20:47:18,493 WARN 5720 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-10-08 20:50:38,240 WARN 5720 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-10-08 20:50:38,240 WARN 5720 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-10-08 20:55:08,760 WARN 5720 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-10-08 21:19:06,271 WARN 5720 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-10-08 21:22:04,911 WARN 5720 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-10-08 21:26:06,690 WARN 5720 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-10-08 21:33:43,559 WARN 5720 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-10-08 21:36:43,913 WARN 5720 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-10-08 21:36:43,913 WARN 5720 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-10-08 21:40:36,345 WARN 5720 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-10-08 21:44:35,333 WARN 5720 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-10-08 21:44:35,334 WARN 5720 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-10-08 21:52:06,239 WARN 5720 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-10-08 21:52:06,239 WARN 5720 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-10-08 21:56:32,680 WARN 5720 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-10-08 22:00:16,025 WARN 5720 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-10-09 02:00:35,770 WARN 5720 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-10-09 02:00:35,770 WARN 5720 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-10-09 04:00:54,155 WARN 5720 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-10-09 06:01:13,969 WARN 5720 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-10-09 06:01:13,969 WARN 5720 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-10-09 07:21:29,690 WARN 5720 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-10-09 09:16:44,361 WARN 5720 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-10-09 09:16:44,362 WARN 5720 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-10-11 14:57:02,613 INFO 1876 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-11 14:57:02,631 INFO 1876 [egg-multipart] stream mode enable
+2019-10-11 14:57:02,806 INFO 1876 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-10-11 14:57:02,808 INFO 1876 [egg-security] use methodnoallow middleware
+2019-10-11 14:57:02,809 INFO 1876 [egg-security] use noopen middleware
+2019-10-11 14:57:02,809 INFO 1876 [egg-security] use nosniff middleware
+2019-10-11 14:57:02,810 INFO 1876 [egg-security] use xssProtection middleware
+2019-10-11 14:57:02,810 INFO 1876 [egg-security] use xframe middleware
+2019-10-11 14:57:02,811 INFO 1876 [egg-security] use dta middleware
+2019-10-11 14:57:02,811 INFO 1876 [egg-security] compose 6 middlewares into one security middleware
+2019-10-11 14:57:02,819 INFO 1876 [egg:core] dump config after load, 3ms
+2019-10-11 14:57:02,827 INFO 1876 [egg-watcher:application] watcher start success
+2019-10-11 14:57:02,831 INFO 1876 [egg:core] dump config after ready, 3ms
+2019-10-11 14:58:02,120 INFO 1894 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-11 14:58:02,145 INFO 1894 [egg-multipart] stream mode enable
+2019-10-11 14:58:02,303 INFO 1894 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-10-11 14:58:02,305 INFO 1894 [egg-security] use methodnoallow middleware
+2019-10-11 14:58:02,305 INFO 1894 [egg-security] use noopen middleware
+2019-10-11 14:58:02,306 INFO 1894 [egg-security] use nosniff middleware
+2019-10-11 14:58:02,306 INFO 1894 [egg-security] use xssProtection middleware
+2019-10-11 14:58:02,307 INFO 1894 [egg-security] use xframe middleware
+2019-10-11 14:58:02,308 INFO 1894 [egg-security] use dta middleware
+2019-10-11 14:58:02,308 INFO 1894 [egg-security] compose 6 middlewares into one security middleware
+2019-10-11 14:58:02,315 INFO 1894 [egg:core] dump config after load, 2ms
+2019-10-11 14:58:02,321 INFO 1894 [egg-watcher:application] watcher start success
+2019-10-11 14:58:02,324 INFO 1894 [egg:core] dump config after ready, 2ms
+2019-10-11 14:58:54,706 INFO 1901 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-11 14:58:54,730 INFO 1901 [egg-multipart] stream mode enable
+2019-10-11 14:58:54,882 INFO 1901 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-10-11 14:58:54,883 INFO 1901 [egg-security] use methodnoallow middleware
+2019-10-11 14:58:54,884 INFO 1901 [egg-security] use noopen middleware
+2019-10-11 14:58:54,885 INFO 1901 [egg-security] use nosniff middleware
+2019-10-11 14:58:54,885 INFO 1901 [egg-security] use xssProtection middleware
+2019-10-11 14:58:54,886 INFO 1901 [egg-security] use xframe middleware
+2019-10-11 14:58:54,886 INFO 1901 [egg-security] use dta middleware
+2019-10-11 14:58:54,886 INFO 1901 [egg-security] compose 6 middlewares into one security middleware
+2019-10-11 14:58:54,893 INFO 1901 [egg:core] dump config after load, 3ms
+2019-10-11 14:58:54,899 INFO 1901 [egg-watcher:application] watcher start success
+2019-10-11 14:58:54,902 INFO 1901 [egg:core] dump config after ready, 2ms
+2019-10-11 14:59:05,810 INFO 1908 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-11 14:59:05,825 INFO 1908 [egg-multipart] stream mode enable
+2019-10-11 14:59:05,899 INFO 1908 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-10-11 14:59:05,900 INFO 1908 [egg-security] use methodnoallow middleware
+2019-10-11 14:59:05,900 INFO 1908 [egg-security] use noopen middleware
+2019-10-11 14:59:05,901 INFO 1908 [egg-security] use nosniff middleware
+2019-10-11 14:59:05,901 INFO 1908 [egg-security] use xssProtection middleware
+2019-10-11 14:59:05,901 INFO 1908 [egg-security] use xframe middleware
+2019-10-11 14:59:05,901 INFO 1908 [egg-security] use dta middleware
+2019-10-11 14:59:05,901 INFO 1908 [egg-security] compose 6 middlewares into one security middleware
+2019-10-11 14:59:05,908 INFO 1908 [egg:core] dump config after load, 4ms
+2019-10-11 14:59:05,916 INFO 1908 [egg-watcher:application] watcher start success
+2019-10-11 14:59:05,920 INFO 1908 [egg:core] dump config after ready, 2ms
+2019-10-11 14:59:11,335 ERROR 1908 nodejs.ENOENTError: ENOENT: no such file or directory, open '/root/saasworkspace/fsdf/config.js' (uncaughtException throw 1 times on pid:1908)
+    at Object.openSync (fs.js:451:3)
+    at Object.writeFileSync (fs.js:1276:35)
+    at /Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js:101:10
+    at FSReqCallback.oncomplete (fs.js:157:23)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/root/saasworkspace/fsdf/config.js"
+name: "ENOENTError"
+pid: 1908
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-11 15:00:09,429 INFO 1949 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-11 15:00:09,445 INFO 1949 [egg-multipart] stream mode enable
+2019-10-11 15:00:09,516 INFO 1949 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-10-11 15:00:09,517 INFO 1949 [egg-security] use methodnoallow middleware
+2019-10-11 15:00:09,518 INFO 1949 [egg-security] use noopen middleware
+2019-10-11 15:00:09,518 INFO 1949 [egg-security] use nosniff middleware
+2019-10-11 15:00:09,518 INFO 1949 [egg-security] use xssProtection middleware
+2019-10-11 15:00:09,518 INFO 1949 [egg-security] use xframe middleware
+2019-10-11 15:00:09,518 INFO 1949 [egg-security] use dta middleware
+2019-10-11 15:00:09,518 INFO 1949 [egg-security] compose 6 middlewares into one security middleware
+2019-10-11 15:00:09,524 INFO 1949 [egg:core] dump config after load, 3ms
+2019-10-11 15:00:09,530 INFO 1949 [egg-watcher:application] watcher start success
+2019-10-11 15:00:09,533 INFO 1949 [egg:core] dump config after ready, 2ms
+2019-10-11 15:00:17,604 INFO 1959 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-11 15:00:17,619 INFO 1959 [egg-multipart] stream mode enable
+2019-10-11 15:00:17,687 INFO 1959 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-10-11 15:00:17,688 INFO 1959 [egg-security] use methodnoallow middleware
+2019-10-11 15:00:17,688 INFO 1959 [egg-security] use noopen middleware
+2019-10-11 15:00:17,688 INFO 1959 [egg-security] use nosniff middleware
+2019-10-11 15:00:17,688 INFO 1959 [egg-security] use xssProtection middleware
+2019-10-11 15:00:17,689 INFO 1959 [egg-security] use xframe middleware
+2019-10-11 15:00:17,689 INFO 1959 [egg-security] use dta middleware
+2019-10-11 15:00:17,689 INFO 1959 [egg-security] compose 6 middlewares into one security middleware
+2019-10-11 15:00:17,694 INFO 1959 [egg:core] dump config after load, 2ms
+2019-10-11 15:00:17,702 INFO 1959 [egg-watcher:application] watcher start success
+2019-10-11 15:00:17,705 INFO 1959 [egg:core] dump config after ready, 2ms
+2019-10-11 15:00:23,065 ERROR 1959 nodejs.ENOENTError: ENOENT: no such file or directory, open '~/saasworkspace/fsdf/config.js' (uncaughtException throw 1 times on pid:1959)
+    at Object.openSync (fs.js:451:3)
+    at Object.writeFileSync (fs.js:1276:35)
+    at /Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js:101:10
+    at FSReqCallback.oncomplete (fs.js:157:23)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "~/saasworkspace/fsdf/config.js"
+name: "ENOENTError"
+pid: 1959
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-11 15:03:31,198 INFO 1966 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-11 15:03:31,213 INFO 1966 [egg-multipart] stream mode enable
+2019-10-11 15:03:31,281 INFO 1966 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-10-11 15:03:31,282 INFO 1966 [egg-security] use methodnoallow middleware
+2019-10-11 15:03:31,282 INFO 1966 [egg-security] use noopen middleware
+2019-10-11 15:03:31,283 INFO 1966 [egg-security] use nosniff middleware
+2019-10-11 15:03:31,283 INFO 1966 [egg-security] use xssProtection middleware
+2019-10-11 15:03:31,283 INFO 1966 [egg-security] use xframe middleware
+2019-10-11 15:03:31,283 INFO 1966 [egg-security] use dta middleware
+2019-10-11 15:03:31,283 INFO 1966 [egg-security] compose 6 middlewares into one security middleware
+2019-10-11 15:03:31,289 INFO 1966 [egg:core] dump config after load, 2ms
+2019-10-11 15:03:31,294 INFO 1966 [egg-watcher:application] watcher start success
+2019-10-11 15:03:31,298 INFO 1966 [egg:core] dump config after ready, 2ms
+2019-10-11 15:03:40,735 INFO 1973 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-11 15:03:40,750 INFO 1973 [egg-multipart] stream mode enable
+2019-10-11 15:03:40,819 INFO 1973 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-10-11 15:03:40,820 INFO 1973 [egg-security] use methodnoallow middleware
+2019-10-11 15:03:40,821 INFO 1973 [egg-security] use noopen middleware
+2019-10-11 15:03:40,821 INFO 1973 [egg-security] use nosniff middleware
+2019-10-11 15:03:40,821 INFO 1973 [egg-security] use xssProtection middleware
+2019-10-11 15:03:40,821 INFO 1973 [egg-security] use xframe middleware
+2019-10-11 15:03:40,821 INFO 1973 [egg-security] use dta middleware
+2019-10-11 15:03:40,821 INFO 1973 [egg-security] compose 6 middlewares into one security middleware
+2019-10-11 15:03:40,827 INFO 1973 [egg:core] dump config after load, 3ms
+2019-10-11 15:03:40,834 INFO 1973 [egg-watcher:application] watcher start success
+2019-10-11 15:03:40,838 INFO 1973 [egg:core] dump config after ready, 2ms
+2019-10-11 15:03:59,678 ERROR 1973 nodejs.unhandledRejectionError: ENOENT: no such file or directory, mkdir '~/saasworkspace/fsdf/logs'
+unhandledRejectionError: ENOENT: no such file or directory, mkdir '~/saasworkspace/fsdf/logs'
+errno: -2
+code: "ENOENT"
+syscall: "mkdir"
+path: "~/saasworkspace/fsdf/logs"
+name: "unhandledRejectionError"
+pid: 1973
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-11 15:04:47,785 INFO 1984 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-11 15:04:47,813 INFO 1984 [egg-multipart] stream mode enable
+2019-10-11 15:04:47,974 INFO 1984 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-10-11 15:04:47,976 INFO 1984 [egg-security] use methodnoallow middleware
+2019-10-11 15:04:47,976 INFO 1984 [egg-security] use noopen middleware
+2019-10-11 15:04:47,977 INFO 1984 [egg-security] use nosniff middleware
+2019-10-11 15:04:47,977 INFO 1984 [egg-security] use xssProtection middleware
+2019-10-11 15:04:47,978 INFO 1984 [egg-security] use xframe middleware
+2019-10-11 15:04:47,978 INFO 1984 [egg-security] use dta middleware
+2019-10-11 15:04:47,978 INFO 1984 [egg-security] compose 6 middlewares into one security middleware
+2019-10-11 15:04:47,986 INFO 1984 [egg:core] dump config after load, 3ms
+2019-10-11 15:04:47,992 INFO 1984 [egg-watcher:application] watcher start success
+2019-10-11 15:04:47,995 INFO 1984 [egg:core] dump config after ready, 2ms
+2019-10-11 15:04:55,100 ERROR 1984 nodejs.unhandledRejectionError: ENOENT: no such file or directory, mkdir '~/saasworkspace/'
+unhandledRejectionError: ENOENT: no such file or directory, mkdir '~/saasworkspace/'
+errno: -2
+code: "ENOENT"
+syscall: "mkdir"
+path: "~/saasworkspace/"
+name: "unhandledRejectionError"
+pid: 1984
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-11 15:07:26,935 INFO 1995 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-11 15:07:26,958 INFO 1995 [egg-multipart] stream mode enable
+2019-10-11 15:07:27,103 INFO 1995 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-10-11 15:07:27,105 INFO 1995 [egg-security] use methodnoallow middleware
+2019-10-11 15:07:27,105 INFO 1995 [egg-security] use noopen middleware
+2019-10-11 15:07:27,106 INFO 1995 [egg-security] use nosniff middleware
+2019-10-11 15:07:27,106 INFO 1995 [egg-security] use xssProtection middleware
+2019-10-11 15:07:27,107 INFO 1995 [egg-security] use xframe middleware
+2019-10-11 15:07:27,107 INFO 1995 [egg-security] use dta middleware
+2019-10-11 15:07:27,108 INFO 1995 [egg-security] compose 6 middlewares into one security middleware
+2019-10-11 15:07:27,115 INFO 1995 [egg:core] dump config after load, 3ms
+2019-10-11 15:07:27,121 INFO 1995 [egg-watcher:application] watcher start success
+2019-10-11 15:07:27,124 INFO 1995 [egg:core] dump config after ready, 2ms
+2019-10-11 15:07:51,995 INFO 2004 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-11 15:07:52,010 INFO 2004 [egg-multipart] stream mode enable
+2019-10-11 15:07:52,079 INFO 2004 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-10-11 15:07:52,080 INFO 2004 [egg-security] use methodnoallow middleware
+2019-10-11 15:07:52,080 INFO 2004 [egg-security] use noopen middleware
+2019-10-11 15:07:52,080 INFO 2004 [egg-security] use nosniff middleware
+2019-10-11 15:07:52,081 INFO 2004 [egg-security] use xssProtection middleware
+2019-10-11 15:07:52,081 INFO 2004 [egg-security] use xframe middleware
+2019-10-11 15:07:52,081 INFO 2004 [egg-security] use dta middleware
+2019-10-11 15:07:52,081 INFO 2004 [egg-security] compose 6 middlewares into one security middleware
+2019-10-11 15:07:52,086 INFO 2004 [egg:core] dump config after load, 2ms
+2019-10-11 15:07:52,094 INFO 2004 [egg-watcher:application] watcher start success
+2019-10-11 15:07:52,098 INFO 2004 [egg:core] dump config after ready, 3ms
+2019-10-11 15:08:48,856 INFO 2011 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-11 15:08:48,882 INFO 2011 [egg-multipart] stream mode enable
+2019-10-11 15:08:49,036 INFO 2011 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-10-11 15:08:49,037 INFO 2011 [egg-security] use methodnoallow middleware
+2019-10-11 15:08:49,038 INFO 2011 [egg-security] use noopen middleware
+2019-10-11 15:08:49,039 INFO 2011 [egg-security] use nosniff middleware
+2019-10-11 15:08:49,039 INFO 2011 [egg-security] use xssProtection middleware
+2019-10-11 15:08:49,040 INFO 2011 [egg-security] use xframe middleware
+2019-10-11 15:08:49,040 INFO 2011 [egg-security] use dta middleware
+2019-10-11 15:08:49,040 INFO 2011 [egg-security] compose 6 middlewares into one security middleware
+2019-10-11 15:08:49,047 INFO 2011 [egg:core] dump config after load, 3ms
+2019-10-11 15:08:49,053 INFO 2011 [egg-watcher:application] watcher start success
+2019-10-11 15:08:49,056 INFO 2011 [egg:core] dump config after ready, 2ms
+2019-10-11 15:11:51,979 INFO 2025 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-11 15:11:52,000 INFO 2025 [egg-multipart] stream mode enable
+2019-10-11 15:11:52,134 INFO 2025 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-10-11 15:11:52,136 INFO 2025 [egg-security] use methodnoallow middleware
+2019-10-11 15:11:52,137 INFO 2025 [egg-security] use noopen middleware
+2019-10-11 15:11:52,137 INFO 2025 [egg-security] use nosniff middleware
+2019-10-11 15:11:52,138 INFO 2025 [egg-security] use xssProtection middleware
+2019-10-11 15:11:52,138 INFO 2025 [egg-security] use xframe middleware
+2019-10-11 15:11:52,139 INFO 2025 [egg-security] use dta middleware
+2019-10-11 15:11:52,139 INFO 2025 [egg-security] compose 6 middlewares into one security middleware
+2019-10-11 15:11:52,146 INFO 2025 [egg:core] dump config after load, 3ms
+2019-10-11 15:11:52,152 INFO 2025 [egg-watcher:application] watcher start success
+2019-10-11 15:11:52,155 INFO 2025 [egg:core] dump config after ready, 2ms
+2019-10-11 15:12:16,775 INFO 2030 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-11 15:12:16,797 INFO 2030 [egg-multipart] stream mode enable
+2019-10-11 15:12:16,940 INFO 2030 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-10-11 15:12:16,942 INFO 2030 [egg-security] use methodnoallow middleware
+2019-10-11 15:12:16,942 INFO 2030 [egg-security] use noopen middleware
+2019-10-11 15:12:16,943 INFO 2030 [egg-security] use nosniff middleware
+2019-10-11 15:12:16,943 INFO 2030 [egg-security] use xssProtection middleware
+2019-10-11 15:12:16,944 INFO 2030 [egg-security] use xframe middleware
+2019-10-11 15:12:16,944 INFO 2030 [egg-security] use dta middleware
+2019-10-11 15:12:16,945 INFO 2030 [egg-security] compose 6 middlewares into one security middleware
+2019-10-11 15:12:16,951 INFO 2030 [egg:core] dump config after load, 2ms
+2019-10-11 15:12:16,957 INFO 2030 [egg-watcher:application] watcher start success
+2019-10-11 15:12:16,961 INFO 2030 [egg:core] dump config after ready, 2ms
+2019-10-11 15:39:32,684 INFO 2162 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-11 15:39:32,708 INFO 2162 [egg-multipart] stream mode enable
+2019-10-11 15:39:32,893 INFO 2162 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-10-11 15:39:32,895 INFO 2162 [egg-security] use methodnoallow middleware
+2019-10-11 15:39:32,896 INFO 2162 [egg-security] use noopen middleware
+2019-10-11 15:39:32,896 INFO 2162 [egg-security] use nosniff middleware
+2019-10-11 15:39:32,897 INFO 2162 [egg-security] use xssProtection middleware
+2019-10-11 15:39:32,897 INFO 2162 [egg-security] use xframe middleware
+2019-10-11 15:39:32,898 INFO 2162 [egg-security] use dta middleware
+2019-10-11 15:39:32,898 INFO 2162 [egg-security] compose 6 middlewares into one security middleware
+2019-10-11 15:39:32,906 INFO 2162 [egg:core] dump config after load, 3ms
+2019-10-11 15:39:32,912 INFO 2162 [egg-watcher:application] watcher start success
+2019-10-11 15:39:32,916 INFO 2162 [egg:core] dump config after ready, 2ms
+2019-10-11 15:46:00,612 INFO 2201 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-11 15:46:00,628 INFO 2201 [egg-multipart] stream mode enable
+2019-10-11 15:46:00,765 INFO 2201 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-10-11 15:46:00,766 INFO 2201 [egg-security] use methodnoallow middleware
+2019-10-11 15:46:00,767 INFO 2201 [egg-security] use noopen middleware
+2019-10-11 15:46:00,767 INFO 2201 [egg-security] use nosniff middleware
+2019-10-11 15:46:00,768 INFO 2201 [egg-security] use xssProtection middleware
+2019-10-11 15:46:00,769 INFO 2201 [egg-security] use xframe middleware
+2019-10-11 15:46:00,769 INFO 2201 [egg-security] use dta middleware
+2019-10-11 15:46:00,769 INFO 2201 [egg-security] compose 6 middlewares into one security middleware
+2019-10-11 15:46:00,776 INFO 2201 [egg:core] dump config after load, 3ms
+2019-10-11 15:46:00,784 INFO 2201 [egg-watcher:application] watcher start success
+2019-10-11 15:46:00,787 INFO 2201 [egg:core] dump config after ready, 2ms
+2019-10-11 15:47:55,706 INFO 2207 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-11 15:47:55,731 INFO 2207 [egg-multipart] stream mode enable
+2019-10-11 15:47:55,882 INFO 2207 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-10-11 15:47:55,883 INFO 2207 [egg-security] use methodnoallow middleware
+2019-10-11 15:47:55,884 INFO 2207 [egg-security] use noopen middleware
+2019-10-11 15:47:55,884 INFO 2207 [egg-security] use nosniff middleware
+2019-10-11 15:47:55,885 INFO 2207 [egg-security] use xssProtection middleware
+2019-10-11 15:47:55,885 INFO 2207 [egg-security] use xframe middleware
+2019-10-11 15:47:55,886 INFO 2207 [egg-security] use dta middleware
+2019-10-11 15:47:55,886 INFO 2207 [egg-security] compose 6 middlewares into one security middleware
+2019-10-11 15:47:55,893 INFO 2207 [egg:core] dump config after load, 3ms
+2019-10-11 15:47:55,899 INFO 2207 [egg-watcher:application] watcher start success
+2019-10-11 15:47:55,902 INFO 2207 [egg:core] dump config after ready, 2ms
+2019-10-12 09:58:22,709 INFO 3832 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-10-12 09:58:22,726 INFO 3832 [egg-multipart] stream mode enable
+2019-10-12 09:58:22,981 INFO 3832 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-10-12 09:58:22,982 INFO 3832 [egg-security] use methodnoallow middleware
+2019-10-12 09:58:22,983 INFO 3832 [egg-security] use noopen middleware
+2019-10-12 09:58:22,984 INFO 3832 [egg-security] use nosniff middleware
+2019-10-12 09:58:22,984 INFO 3832 [egg-security] use xssProtection middleware
+2019-10-12 09:58:22,985 INFO 3832 [egg-security] use xframe middleware
+2019-10-12 09:58:22,985 INFO 3832 [egg-security] use dta middleware
+2019-10-12 09:58:22,985 INFO 3832 [egg-security] compose 6 middlewares into one security middleware
+2019-10-12 09:58:22,994 INFO 3832 [egg:core] dump config after load, 4ms
+2019-10-12 09:58:23,004 INFO 3832 [egg-watcher:application] watcher start success
+2019-10-12 09:58:23,008 INFO 3832 [egg:core] dump config after ready, 2ms
+2019-11-09 15:21:24,523 INFO 2081 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-11-09 15:21:24,538 INFO 2081 [egg-multipart] stream mode enable
+2019-11-09 15:21:24,706 INFO 2081 [egg-static] starting static serve /public/ -> /Users/fangjianbing/work/oal/containerManager/app/public
+2019-11-09 15:21:24,708 INFO 2081 [egg-security] use methodnoallow middleware
+2019-11-09 15:21:24,708 INFO 2081 [egg-security] use noopen middleware
+2019-11-09 15:21:24,708 INFO 2081 [egg-security] use nosniff middleware
+2019-11-09 15:21:24,708 INFO 2081 [egg-security] use xssProtection middleware
+2019-11-09 15:21:24,709 INFO 2081 [egg-security] use xframe middleware
+2019-11-09 15:21:24,709 INFO 2081 [egg-security] use dta middleware
+2019-11-09 15:21:24,709 INFO 2081 [egg-security] compose 6 middlewares into one security middleware
+2019-11-09 15:21:24,722 INFO 2081 [egg:core] dump config after load, 9ms
+2019-11-09 15:21:24,733 INFO 2081 [egg-watcher:application] watcher start success
+2019-11-09 15:21:24,739 INFO 2081 [egg:core] dump config after ready, 4ms

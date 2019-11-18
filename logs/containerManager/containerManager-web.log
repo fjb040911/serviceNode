@@ -1,0 +1,52 @@
+2019-10-08 17:44:58,156 ERROR 5720 [-/127.0.0.1/-/12ms GET /api/containers] nodejs.Error: Command failed: docker images
+/bin/sh: docker: command not found
+
+/bin/sh: docker: command not found
+
+    at ChildProcess.exithandler (child_process.js:295:12)
+    at ChildProcess.emit (events.js:210:5)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Socket.<anonymous> (internal/child_process.js:430:11)
+    at Socket.emit (events.js:210:5)
+    at Pipe.<anonymous> (net.js:658:12)
+killed: false
+code: 127
+signal: null
+cmd: "docker images"
+pid: 5720
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-11 14:57:18,229 ERROR 1876 [-/127.0.0.1/-/5ms GET /api/test/config/fsdf] nodejs.ENOENTError: ENOENT: no such file or directory, mkdir '/root/saasworkspace/fsdf/logs'
+    at Object.mkdirSync (fs.js:834:3)
+    at DockerCmd.makeConfig (/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js:100:8)
+    at Docker.testConfig (/Users/fangjianbing/work/oal/containerManager/app/controller/docker.js:51:32)
+    at Object.callFn (/Users/fangjianbing/work/oal/containerManager/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/fangjianbing/work/oal/containerManager/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/fangjianbing/work/oal/containerManager/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/fangjianbing/work/oal/containerManager/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/fangjianbing/work/oal/containerManager/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/fangjianbing/work/oal/containerManager/node_modules/koa-compose/index.js:45:18)
+    at /Users/fangjianbing/work/oal/containerManager/node_modules/@eggjs/router/lib/router.js:190:18
+errno: -2
+syscall: "mkdir"
+code: "ENOENT"
+path: "/root/saasworkspace/fsdf/logs"
+name: "ENOENTError"
+pid: 1876
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-11 14:58:11,686 ERROR 1894 [-/127.0.0.1/-/5ms GET /api/test/config/fsdf] nodejs.TypeError: Callback must be a function. Received undefined
+    at makeCallback (fs.js:154:11)
+    at Object.mkdir (fs.js:805:14)
+    at DockerCmd.makeConfig (/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js:100:8)
+    at Docker.testConfig (/Users/fangjianbing/work/oal/containerManager/app/controller/docker.js:51:32)
+    at Object.callFn (/Users/fangjianbing/work/oal/containerManager/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/fangjianbing/work/oal/containerManager/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/fangjianbing/work/oal/containerManager/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/fangjianbing/work/oal/containerManager/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/fangjianbing/work/oal/containerManager/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/fangjianbing/work/oal/containerManager/node_modules/koa-compose/index.js:45:18)
+
+pid: 1894
+hostname: fangjianbingdeMacBook-Pro.local
+

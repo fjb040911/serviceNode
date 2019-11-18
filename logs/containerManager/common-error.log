@@ -1,0 +1,282 @@
+2019-10-08 17:44:58,156 ERROR 5720 [-/127.0.0.1/-/12ms GET /api/containers] nodejs.Error: Command failed: docker images
+/bin/sh: docker: command not found
+
+/bin/sh: docker: command not found
+
+    at ChildProcess.exithandler (child_process.js:295:12)
+    at ChildProcess.emit (events.js:210:5)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Socket.<anonymous> (internal/child_process.js:430:11)
+    at Socket.emit (events.js:210:5)
+    at Pipe.<anonymous> (net.js:658:12)
+killed: false
+code: 127
+signal: null
+cmd: "docker images"
+pid: 5720
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 18:03:15,209 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 124643ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 19:46:31,855 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 6156623ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 19:48:39,549 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 67668ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 20:04:24,456 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 944901ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 20:41:17,449 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 2212988ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 20:47:18,493 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 361040ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 20:50:38,238 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 199742ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 20:55:08,760 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 270518ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 21:19:06,271 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 1437506ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 21:22:04,911 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 178637ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 21:26:06,690 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 241776ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 21:33:43,559 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 456866ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 21:36:43,912 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 180351ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 21:40:36,345 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 232422ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 21:44:35,333 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 238985ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 21:52:06,239 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 450901ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 21:56:32,681 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 266429ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 22:00:16,025 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 223342ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-09 02:00:35,770 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 14419743ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-09 04:00:54,155 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 7218376ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-09 06:01:13,969 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 7219811ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-09 07:21:29,690 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 4815718ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-09 09:16:44,362 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 6894662ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-11 14:57:18,229 ERROR 1876 [-/127.0.0.1/-/5ms GET /api/test/config/fsdf] nodejs.ENOENTError: ENOENT: no such file or directory, mkdir '/root/saasworkspace/fsdf/logs'
+    at Object.mkdirSync (fs.js:834:3)
+    at DockerCmd.makeConfig (/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js:100:8)
+    at Docker.testConfig (/Users/fangjianbing/work/oal/containerManager/app/controller/docker.js:51:32)
+    at Object.callFn (/Users/fangjianbing/work/oal/containerManager/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/fangjianbing/work/oal/containerManager/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/fangjianbing/work/oal/containerManager/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/fangjianbing/work/oal/containerManager/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/fangjianbing/work/oal/containerManager/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/fangjianbing/work/oal/containerManager/node_modules/koa-compose/index.js:45:18)
+    at /Users/fangjianbing/work/oal/containerManager/node_modules/@eggjs/router/lib/router.js:190:18
+errno: -2
+syscall: "mkdir"
+code: "ENOENT"
+path: "/root/saasworkspace/fsdf/logs"
+name: "ENOENTError"
+pid: 1876
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-11 14:58:11,686 ERROR 1894 [-/127.0.0.1/-/5ms GET /api/test/config/fsdf] nodejs.TypeError: Callback must be a function. Received undefined
+    at makeCallback (fs.js:154:11)
+    at Object.mkdir (fs.js:805:14)
+    at DockerCmd.makeConfig (/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js:100:8)
+    at Docker.testConfig (/Users/fangjianbing/work/oal/containerManager/app/controller/docker.js:51:32)
+    at Object.callFn (/Users/fangjianbing/work/oal/containerManager/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/fangjianbing/work/oal/containerManager/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/fangjianbing/work/oal/containerManager/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/fangjianbing/work/oal/containerManager/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/fangjianbing/work/oal/containerManager/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/fangjianbing/work/oal/containerManager/node_modules/koa-compose/index.js:45:18)
+
+pid: 1894
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-11 14:59:11,334 ERROR 1908 nodejs.ENOENTError: ENOENT: no such file or directory, open '/root/saasworkspace/fsdf/config.js' (uncaughtException throw 1 times on pid:1908)
+    at Object.openSync (fs.js:451:3)
+    at Object.writeFileSync (fs.js:1276:35)
+    at /Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js:101:10
+    at FSReqCallback.oncomplete (fs.js:157:23)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/root/saasworkspace/fsdf/config.js"
+name: "ENOENTError"
+pid: 1908
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-11 15:00:23,065 ERROR 1959 nodejs.ENOENTError: ENOENT: no such file or directory, open '~/saasworkspace/fsdf/config.js' (uncaughtException throw 1 times on pid:1959)
+    at Object.openSync (fs.js:451:3)
+    at Object.writeFileSync (fs.js:1276:35)
+    at /Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js:101:10
+    at FSReqCallback.oncomplete (fs.js:157:23)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "~/saasworkspace/fsdf/config.js"
+name: "ENOENTError"
+pid: 1959
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-11 15:03:59,678 ERROR 1973 nodejs.unhandledRejectionError: ENOENT: no such file or directory, mkdir '~/saasworkspace/fsdf/logs'
+unhandledRejectionError: ENOENT: no such file or directory, mkdir '~/saasworkspace/fsdf/logs'
+errno: -2
+code: "ENOENT"
+syscall: "mkdir"
+path: "~/saasworkspace/fsdf/logs"
+name: "unhandledRejectionError"
+pid: 1973
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-11 15:04:55,099 ERROR 1984 nodejs.unhandledRejectionError: ENOENT: no such file or directory, mkdir '~/saasworkspace/'
+unhandledRejectionError: ENOENT: no such file or directory, mkdir '~/saasworkspace/'
+errno: -2
+code: "ENOENT"
+syscall: "mkdir"
+path: "~/saasworkspace/"
+name: "unhandledRejectionError"
+pid: 1984
+hostname: fangjianbingdeMacBook-Pro.local
+

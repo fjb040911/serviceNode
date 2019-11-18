@@ -1,0 +1,102 @@
+2019-10-08 17:25:09,811 INFO 5634 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 39890191ms at 2019-10-09 04:30:00.002
+2019-10-08 17:25:09,811 INFO 5634 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 23690189ms at 2019-10-09 00:00:00.000
+2019-10-08 17:25:09,811 INFO 5634 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 23691189ms at 2019-10-09 00:00:01.000
+2019-10-08 17:25:09,714 INFO 5635 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-08 17:25:09,714 INFO 5635 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-08 17:25:09,714 INFO 5635 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-08 17:31:03,391 INFO 5660 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-08 17:31:03,391 INFO 5660 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-08 17:31:03,391 INFO 5660 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-08 17:34:06,249 INFO 5679 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-08 17:34:06,249 INFO 5679 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-08 17:34:06,249 INFO 5679 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-08 17:44:25,787 INFO 5715 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 38734215ms at 2019-10-09 04:30:00.002
+2019-10-08 17:44:25,788 INFO 5715 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 22534213ms at 2019-10-09 00:00:00.001
+2019-10-08 17:44:25,788 INFO 5715 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 22535212ms at 2019-10-09 00:00:01.000
+2019-10-08 17:44:25,733 INFO 5716 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-08 17:44:25,733 INFO 5716 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-08 17:44:25,733 INFO 5716 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-08 17:44:50,330 INFO 5720 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-08 17:44:50,330 INFO 5720 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-08 17:44:50,330 INFO 5720 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-11 14:57:02,835 INFO 1875 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 48777167ms at 2019-10-12 04:30:00.002
+2019-10-11 14:57:02,835 INFO 1875 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 32577165ms at 2019-10-12 00:00:00.000
+2019-10-11 14:57:02,835 INFO 1875 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 32578165ms at 2019-10-12 00:00:01.000
+2019-10-11 14:57:02,630 INFO 1876 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-11 14:57:02,631 INFO 1876 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-11 14:57:02,631 INFO 1876 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-11 14:58:02,145 INFO 1894 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-11 14:58:02,145 INFO 1894 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-11 14:58:02,145 INFO 1894 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-11 14:58:54,729 INFO 1901 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-11 14:58:54,729 INFO 1901 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-11 14:58:54,729 INFO 1901 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-11 14:59:05,924 INFO 1907 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 48654078ms at 2019-10-12 04:30:00.002
+2019-10-11 14:59:05,925 INFO 1907 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 32454075ms at 2019-10-12 00:00:00.000
+2019-10-11 14:59:05,925 INFO 1907 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 32455075ms at 2019-10-12 00:00:01.000
+2019-10-11 14:59:05,825 INFO 1908 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-11 14:59:05,825 INFO 1908 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-11 14:59:05,825 INFO 1908 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-11 15:00:09,444 INFO 1949 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-11 15:00:09,444 INFO 1949 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-11 15:00:09,444 INFO 1949 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-11 15:00:17,709 INFO 1958 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 48582293ms at 2019-10-12 04:30:00.002
+2019-10-11 15:00:17,709 INFO 1958 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 32382291ms at 2019-10-12 00:00:00.000
+2019-10-11 15:00:17,710 INFO 1958 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 32383291ms at 2019-10-12 00:00:01.001
+2019-10-11 15:00:17,618 INFO 1959 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-11 15:00:17,618 INFO 1959 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-11 15:00:17,618 INFO 1959 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-11 15:03:31,213 INFO 1966 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-11 15:03:31,213 INFO 1966 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-11 15:03:31,213 INFO 1966 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-11 15:03:40,843 INFO 1972 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 48379159ms at 2019-10-12 04:30:00.002
+2019-10-11 15:03:40,843 INFO 1972 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 32179157ms at 2019-10-12 00:00:00.000
+2019-10-11 15:03:40,843 INFO 1972 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 32180157ms at 2019-10-12 00:00:01.000
+2019-10-11 15:03:40,749 INFO 1973 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-11 15:03:40,750 INFO 1973 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-11 15:03:40,750 INFO 1973 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-11 15:04:47,812 INFO 1984 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-11 15:04:47,812 INFO 1984 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-11 15:04:47,812 INFO 1984 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-11 15:07:26,958 INFO 1995 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-11 15:07:26,958 INFO 1995 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-11 15:07:26,958 INFO 1995 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-11 15:07:52,101 INFO 2003 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 48127900ms at 2019-10-12 04:30:00.001
+2019-10-11 15:07:52,101 INFO 2003 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 31927899ms at 2019-10-12 00:00:00.000
+2019-10-11 15:07:52,102 INFO 2003 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 31928899ms at 2019-10-12 00:00:01.001
+2019-10-11 15:07:52,010 INFO 2004 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-11 15:07:52,010 INFO 2004 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-11 15:07:52,010 INFO 2004 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-11 15:08:48,881 INFO 2011 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-11 15:08:48,881 INFO 2011 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-11 15:08:48,881 INFO 2011 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-11 15:11:51,999 INFO 2025 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-11 15:11:51,999 INFO 2025 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-11 15:11:51,999 INFO 2025 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-11 15:12:16,796 INFO 2030 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-11 15:12:16,796 INFO 2030 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-11 15:12:16,796 INFO 2030 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-11 15:39:32,707 INFO 2162 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-11 15:39:32,707 INFO 2162 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-11 15:39:32,707 INFO 2162 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-11 15:46:00,791 INFO 2200 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 45839211ms at 2019-10-12 04:30:00.002
+2019-10-11 15:46:00,791 INFO 2200 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 29639209ms at 2019-10-12 00:00:00.000
+2019-10-11 15:46:00,791 INFO 2200 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 29640209ms at 2019-10-12 00:00:01.000
+2019-10-11 15:46:00,628 INFO 2201 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-11 15:46:00,628 INFO 2201 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-11 15:46:00,628 INFO 2201 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-11 15:47:55,730 INFO 2207 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-11 15:47:55,730 INFO 2207 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-11 15:47:55,730 INFO 2207 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-12 09:58:23,012 INFO 3831 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 66696990ms at 2019-10-13 04:30:00.002
+2019-10-12 09:58:23,012 INFO 3831 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 50496988ms at 2019-10-13 00:00:00.000
+2019-10-12 09:58:23,012 INFO 3831 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 50497988ms at 2019-10-13 00:00:01.000
+2019-10-12 09:58:22,726 INFO 3832 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-12 09:58:22,726 INFO 3832 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-10-12 09:58:22,726 INFO 3832 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-09 15:21:24,744 INFO 2080 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 47315259ms at 2019-11-10 04:30:00.003
+2019-11-09 15:21:24,744 INFO 2080 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 31115256ms at 2019-11-10 00:00:00.000
+2019-11-09 15:21:24,744 INFO 2080 [Timer] /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 31116256ms at 2019-11-10 00:00:01.000
+2019-11-09 15:21:24,538 INFO 2081 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-09 15:21:24,538 INFO 2081 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-11-09 15:21:24,538 INFO 2081 [egg-schedule]: register schedule /Users/fangjianbing/work/oal/containerManager/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

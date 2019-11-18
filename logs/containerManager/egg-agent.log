@@ -1,0 +1,352 @@
+2019-10-08 17:25:09,100 INFO 5634 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-10-08 17:25:09,107 INFO 5634 [egg:core] dump config after load, 3ms
+2019-10-08 17:25:09,153 INFO 5634 [egg-watcher] Start watching: ["/Users/fangjianbing/work/oal/containerManager/app","/Users/fangjianbing/work/oal/containerManager/config","/Users/fangjianbing/work/oal/containerManager/mocks","/Users/fangjianbing/work/oal/containerManager/mocks_proxy","/Users/fangjianbing/work/oal/containerManager/app.js"]
+2019-10-08 17:25:09,153 INFO 5634 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/app"
+2019-10-08 17:25:09,153 INFO 5634 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/config"
+2019-10-08 17:25:09,153 INFO 5634 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/mocks"
+2019-10-08 17:25:09,153 INFO 5634 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/mocks_proxy"
+2019-10-08 17:25:09,153 INFO 5634 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/app.js"
+2019-10-08 17:25:09,153 INFO 5634 [egg-watcher:agent] watcher start success
+2019-10-08 17:25:09,160 INFO 5634 [egg:core] dump config after ready, 3ms
+2019-10-08 17:25:09,792 INFO 5634 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/public","stat":{"dev":16777221,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":9949569,"size":64,"blocks":0,"atimeMs":1570526709780.8132,"mtimeMs":1570526709780.8132,"ctimeMs":1570526709780.8132,"birthtimeMs":1570526709780.8132,"atime":"2019-10-08T09:25:09.781Z","mtime":"2019-10-08T09:25:09.781Z","ctime":"2019-10-08T09:25:09.781Z","birthtime":"2019-10-08T09:25:09.781Z"},"remove":false,"isDirectory":true,"isFile":false}
+2019-10-08 17:31:02,755 WARN 5634 [agent:development] reload worker because /Users/fangjianbing/work/oal/containerManager/app/controller/docker.js___jb_old___ rename
+2019-10-08 17:31:02,550 INFO 5634 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/controller/docker.js___jb_tmp___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-08 17:31:02,550 INFO 5634 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/controller/docker.js","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":9949771,"size":737,"blocks":8,"atimeMs":1570527062488.8857,"mtimeMs":1570527062488.9858,"ctimeMs":1570527062489.771,"birthtimeMs":1570527062488.8857,"atime":"2019-10-08T09:31:02.489Z","mtime":"2019-10-08T09:31:02.489Z","ctime":"2019-10-08T09:31:02.490Z","birthtime":"2019-10-08T09:31:02.489Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-10-08 17:31:02,551 INFO 5634 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/controller/docker.js___jb_old___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-08 17:34:05,604 WARN 5634 [agent:development] reload worker because /Users/fangjianbing/work/oal/containerManager/app/controller/docker.js rename
+2019-10-08 17:34:05,401 INFO 5634 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/controller/docker.js___jb_tmp___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-08 17:34:05,401 INFO 5634 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/controller/docker.js___jb_old___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-08 17:34:05,402 INFO 5634 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/controller/docker.js","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":9950206,"size":743,"blocks":8,"atimeMs":1570527245340.112,"mtimeMs":1570527245340.1936,"ctimeMs":1570527245340.6611,"birthtimeMs":1570527245340.112,"atime":"2019-10-08T09:34:05.340Z","mtime":"2019-10-08T09:34:05.340Z","ctime":"2019-10-08T09:34:05.341Z","birthtime":"2019-10-08T09:34:05.340Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-10-08 17:44:25,206 INFO 5715 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-10-08 17:44:25,211 INFO 5715 [egg:core] dump config after load, 2ms
+2019-10-08 17:44:25,232 INFO 5715 [egg-watcher] Start watching: ["/Users/fangjianbing/work/oal/containerManager/app","/Users/fangjianbing/work/oal/containerManager/config","/Users/fangjianbing/work/oal/containerManager/mocks","/Users/fangjianbing/work/oal/containerManager/mocks_proxy","/Users/fangjianbing/work/oal/containerManager/app.js"]
+2019-10-08 17:44:25,232 INFO 5715 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/app"
+2019-10-08 17:44:25,232 INFO 5715 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/config"
+2019-10-08 17:44:25,232 INFO 5715 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/mocks"
+2019-10-08 17:44:25,233 INFO 5715 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/mocks_proxy"
+2019-10-08 17:44:25,233 INFO 5715 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/app.js"
+2019-10-08 17:44:25,233 INFO 5715 [egg-watcher:agent] watcher start success
+2019-10-08 17:44:25,240 INFO 5715 [egg:core] dump config after ready, 2ms
+2019-10-08 17:44:49,704 WARN 5715 [agent:development] reload worker because /Users/fangjianbing/work/oal/containerManager/app/controller/docker.js rename
+2019-10-08 17:44:49,500 INFO 5715 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/controller/docker.js___jb_tmp___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-08 17:44:49,502 INFO 5715 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/controller/docker.js___jb_old___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-08 17:44:49,502 INFO 5715 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/controller/docker.js","stat":{"dev":16777221,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":9950659,"size":409,"blocks":8,"atimeMs":1570527889391.0908,"mtimeMs":1570527889391.1826,"ctimeMs":1570527889391.6292,"birthtimeMs":1570527889391.0908,"atime":"2019-10-08T09:44:49.391Z","mtime":"2019-10-08T09:44:49.391Z","ctime":"2019-10-08T09:44:49.392Z","birthtime":"2019-10-08T09:44:49.391Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-10-08 18:03:15,209 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 124643ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 19:46:31,856 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 6156623ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 19:48:39,550 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 67668ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 20:04:24,456 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 944901ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 20:41:17,449 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 2212988ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 20:47:18,493 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 361040ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 20:50:38,238 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 199742ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 20:55:08,761 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 270518ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 21:19:06,271 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 1437506ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 21:22:04,911 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 178637ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 21:26:06,690 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 241776ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 21:33:43,559 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 456866ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 21:36:43,913 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 180351ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 21:40:36,345 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 232422ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 21:44:35,333 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 238985ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 21:52:06,239 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 450901ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 21:56:32,681 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 266429ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-08 22:00:16,025 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 223342ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-09 02:00:35,771 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 14419743ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-09 04:00:54,155 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 7218376ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-09 06:01:13,969 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 7219811ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-09 07:21:29,690 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 4815718ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-09 09:16:44,362 ERROR 5715 nodejs.ClusterClientNoResponseError: client no response in 6894662ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/fangjianbing/work/oal/containerManager/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5715
+hostname: fangjianbingdeMacBook-Pro.local
+
+2019-10-11 14:57:02,023 INFO 1875 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-10-11 14:57:02,030 INFO 1875 [egg:core] dump config after load, 4ms
+2019-10-11 14:57:02,068 INFO 1875 [egg-watcher] Start watching: ["/Users/fangjianbing/work/oal/containerManager/app","/Users/fangjianbing/work/oal/containerManager/config","/Users/fangjianbing/work/oal/containerManager/mocks","/Users/fangjianbing/work/oal/containerManager/mocks_proxy","/Users/fangjianbing/work/oal/containerManager/app.js"]
+2019-10-11 14:57:02,068 INFO 1875 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/app"
+2019-10-11 14:57:02,069 INFO 1875 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/config"
+2019-10-11 14:57:02,069 INFO 1875 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/mocks"
+2019-10-11 14:57:02,069 INFO 1875 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/mocks_proxy"
+2019-10-11 14:57:02,069 INFO 1875 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/app.js"
+2019-10-11 14:57:02,069 INFO 1875 [egg-watcher:agent] watcher start success
+2019-10-11 14:57:02,077 INFO 1875 [egg:core] dump config after ready, 2ms
+2019-10-11 14:58:01,218 INFO 1875 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_tmp___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-11 14:58:01,220 INFO 1875 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":10117640,"size":2181,"blocks":8,"atimeMs":1570777081155.6218,"mtimeMs":1570777081155.7097,"ctimeMs":1570777081156.1077,"birthtimeMs":1570777081155.6218,"atime":"2019-10-11T06:58:01.156Z","mtime":"2019-10-11T06:58:01.156Z","ctime":"2019-10-11T06:58:01.156Z","birthtime":"2019-10-11T06:58:01.156Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-10-11 14:58:01,221 INFO 1875 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_old___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-11 14:58:01,424 WARN 1875 [agent:development] reload worker because /Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_old___ rename
+2019-10-11 14:58:53,980 WARN 1875 [agent:development] reload worker because /Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js rename
+2019-10-11 14:58:53,776 INFO 1875 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_tmp___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-11 14:58:53,776 INFO 1875 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_old___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-11 14:58:53,776 INFO 1875 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":10117697,"size":2203,"blocks":8,"atimeMs":1570777133664.1616,"mtimeMs":1570777133664.249,"ctimeMs":1570777133664.9421,"birthtimeMs":1570777133664.1616,"atime":"2019-10-11T06:58:53.664Z","mtime":"2019-10-11T06:58:53.664Z","ctime":"2019-10-11T06:58:53.665Z","birthtime":"2019-10-11T06:58:53.664Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-10-11 14:59:05,299 INFO 1907 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-10-11 14:59:05,306 INFO 1907 [egg:core] dump config after load, 3ms
+2019-10-11 14:59:05,338 INFO 1907 [egg-watcher] Start watching: ["/Users/fangjianbing/work/oal/containerManager/app","/Users/fangjianbing/work/oal/containerManager/config","/Users/fangjianbing/work/oal/containerManager/mocks","/Users/fangjianbing/work/oal/containerManager/mocks_proxy","/Users/fangjianbing/work/oal/containerManager/app.js"]
+2019-10-11 14:59:05,338 INFO 1907 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/app"
+2019-10-11 14:59:05,338 INFO 1907 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/config"
+2019-10-11 14:59:05,338 INFO 1907 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/mocks"
+2019-10-11 14:59:05,338 INFO 1907 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/mocks_proxy"
+2019-10-11 14:59:05,338 INFO 1907 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/app.js"
+2019-10-11 14:59:05,338 INFO 1907 [egg-watcher:agent] watcher start success
+2019-10-11 14:59:05,346 INFO 1907 [egg:core] dump config after ready, 2ms
+2019-10-11 15:00:08,943 WARN 1907 [agent:development] reload worker because /Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_old___ rename
+2019-10-11 15:00:08,737 INFO 1907 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_tmp___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-11 15:00:08,739 INFO 1907 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":10117729,"size":2195,"blocks":8,"atimeMs":1570777208624.5122,"mtimeMs":1570777208624.6453,"ctimeMs":1570777208625.6516,"birthtimeMs":1570777208624.5122,"atime":"2019-10-11T07:00:08.625Z","mtime":"2019-10-11T07:00:08.625Z","ctime":"2019-10-11T07:00:08.626Z","birthtime":"2019-10-11T07:00:08.625Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-10-11 15:00:08,739 INFO 1907 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_old___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-11 15:00:17,092 INFO 1958 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-10-11 15:00:17,097 INFO 1958 [egg:core] dump config after load, 2ms
+2019-10-11 15:00:17,120 INFO 1958 [egg-watcher] Start watching: ["/Users/fangjianbing/work/oal/containerManager/app","/Users/fangjianbing/work/oal/containerManager/config","/Users/fangjianbing/work/oal/containerManager/mocks","/Users/fangjianbing/work/oal/containerManager/mocks_proxy","/Users/fangjianbing/work/oal/containerManager/app.js"]
+2019-10-11 15:00:17,120 INFO 1958 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/app"
+2019-10-11 15:00:17,120 INFO 1958 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/config"
+2019-10-11 15:00:17,120 INFO 1958 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/mocks"
+2019-10-11 15:00:17,120 INFO 1958 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/mocks_proxy"
+2019-10-11 15:00:17,121 INFO 1958 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/app.js"
+2019-10-11 15:00:17,121 INFO 1958 [egg-watcher:agent] watcher start success
+2019-10-11 15:00:17,127 INFO 1958 [egg:core] dump config after ready, 2ms
+2019-10-11 15:03:30,662 WARN 1958 [agent:development] reload worker because /Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js rename
+2019-10-11 15:03:30,457 INFO 1958 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_tmp___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-11 15:03:30,458 INFO 1958 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_old___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-11 15:03:30,459 INFO 1958 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":10117832,"size":2196,"blocks":8,"atimeMs":1570777410396.4824,"mtimeMs":1570777410396.5686,"ctimeMs":1570777410397.07,"birthtimeMs":1570777410396.4824,"atime":"2019-10-11T07:03:30.396Z","mtime":"2019-10-11T07:03:30.397Z","ctime":"2019-10-11T07:03:30.397Z","birthtime":"2019-10-11T07:03:30.396Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-10-11 15:03:40,231 INFO 1972 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-10-11 15:03:40,235 INFO 1972 [egg:core] dump config after load, 2ms
+2019-10-11 15:03:40,258 INFO 1972 [egg-watcher] Start watching: ["/Users/fangjianbing/work/oal/containerManager/app","/Users/fangjianbing/work/oal/containerManager/config","/Users/fangjianbing/work/oal/containerManager/mocks","/Users/fangjianbing/work/oal/containerManager/mocks_proxy","/Users/fangjianbing/work/oal/containerManager/app.js"]
+2019-10-11 15:03:40,258 INFO 1972 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/app"
+2019-10-11 15:03:40,258 INFO 1972 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/config"
+2019-10-11 15:03:40,258 INFO 1972 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/mocks"
+2019-10-11 15:03:40,258 INFO 1972 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/mocks_proxy"
+2019-10-11 15:03:40,258 INFO 1972 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/app.js"
+2019-10-11 15:03:40,258 INFO 1972 [egg-watcher:agent] watcher start success
+2019-10-11 15:03:40,265 INFO 1972 [egg:core] dump config after ready, 2ms
+2019-10-11 15:04:46,991 WARN 1972 [agent:development] reload worker because /Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_old___ rename
+2019-10-11 15:04:46,785 INFO 1972 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_tmp___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-11 15:04:46,787 INFO 1972 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":10117900,"size":2341,"blocks":8,"atimeMs":1570777486672.213,"mtimeMs":1570777486672.317,"ctimeMs":1570777486672.8406,"birthtimeMs":1570777486672.213,"atime":"2019-10-11T07:04:46.672Z","mtime":"2019-10-11T07:04:46.672Z","ctime":"2019-10-11T07:04:46.673Z","birthtime":"2019-10-11T07:04:46.672Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-10-11 15:04:46,788 INFO 1972 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_old___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-11 15:07:25,812 INFO 1972 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_tmp___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-11 15:07:25,813 INFO 1972 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_old___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-11 15:07:25,813 INFO 1972 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":10117994,"size":2216,"blocks":8,"atimeMs":1570777645700.406,"mtimeMs":1570777645700.4841,"ctimeMs":1570777645701.0986,"birthtimeMs":1570777645700.406,"atime":"2019-10-11T07:07:25.700Z","mtime":"2019-10-11T07:07:25.700Z","ctime":"2019-10-11T07:07:25.701Z","birthtime":"2019-10-11T07:07:25.700Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-10-11 15:07:26,016 WARN 1972 [agent:development] reload worker because /Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js rename
+2019-10-11 15:07:51,476 INFO 2003 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-10-11 15:07:51,482 INFO 2003 [egg:core] dump config after load, 3ms
+2019-10-11 15:07:51,518 INFO 2003 [egg-watcher] Start watching: ["/Users/fangjianbing/work/oal/containerManager/app","/Users/fangjianbing/work/oal/containerManager/config","/Users/fangjianbing/work/oal/containerManager/mocks","/Users/fangjianbing/work/oal/containerManager/mocks_proxy","/Users/fangjianbing/work/oal/containerManager/app.js"]
+2019-10-11 15:07:51,518 INFO 2003 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/app"
+2019-10-11 15:07:51,519 INFO 2003 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/config"
+2019-10-11 15:07:51,519 INFO 2003 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/mocks"
+2019-10-11 15:07:51,519 INFO 2003 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/mocks_proxy"
+2019-10-11 15:07:51,519 INFO 2003 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/app.js"
+2019-10-11 15:07:51,519 INFO 2003 [egg-watcher:agent] watcher start success
+2019-10-11 15:07:51,527 INFO 2003 [egg:core] dump config after ready, 2ms
+2019-10-11 15:08:48,070 WARN 2003 [agent:development] reload worker because /Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_tmp___ rename
+2019-10-11 15:08:47,864 INFO 2003 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_old___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-11 15:08:47,865 INFO 2003 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":10118067,"size":2252,"blocks":8,"atimeMs":1570777727804.4038,"mtimeMs":1570777727804.5015,"ctimeMs":1570777727805.0774,"birthtimeMs":1570777727804.4038,"atime":"2019-10-11T07:08:47.804Z","mtime":"2019-10-11T07:08:47.805Z","ctime":"2019-10-11T07:08:47.805Z","birthtime":"2019-10-11T07:08:47.804Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-10-11 15:08:47,866 INFO 2003 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_tmp___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-11 15:11:51,241 WARN 2003 [agent:development] reload worker because /Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_old___ rename
+2019-10-11 15:11:51,036 INFO 2003 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_tmp___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-11 15:11:51,037 INFO 2003 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":10118174,"size":2238,"blocks":8,"atimeMs":1570777910925.3542,"mtimeMs":1570777910925.5142,"ctimeMs":1570777910926.3936,"birthtimeMs":1570777910925.3542,"atime":"2019-10-11T07:11:50.925Z","mtime":"2019-10-11T07:11:50.926Z","ctime":"2019-10-11T07:11:50.926Z","birthtime":"2019-10-11T07:11:50.925Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-10-11 15:11:51,037 INFO 2003 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_old___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-11 15:12:16,087 WARN 2003 [agent:development] reload worker because /Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js rename
+2019-10-11 15:12:15,883 INFO 2003 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_old___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-11 15:12:15,883 INFO 2003 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_tmp___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-11 15:12:15,884 INFO 2003 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":10118183,"size":2243,"blocks":8,"atimeMs":1570777935803.628,"mtimeMs":1570777935803.7175,"ctimeMs":1570777935804.6023,"birthtimeMs":1570777935803.628,"atime":"2019-10-11T07:12:15.804Z","mtime":"2019-10-11T07:12:15.804Z","ctime":"2019-10-11T07:12:15.805Z","birthtime":"2019-10-11T07:12:15.804Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-10-11 15:39:31,595 WARN 2003 [agent:development] reload worker because /Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js rename
+2019-10-11 15:39:31,394 INFO 2003 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_tmp___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-11 15:39:31,394 INFO 2003 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_old___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-11 15:39:31,395 INFO 2003 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":10121186,"size":2238,"blocks":8,"atimeMs":1570779571332.3032,"mtimeMs":1570779571332.3835,"ctimeMs":1570779571332.783,"birthtimeMs":1570779571332.3032,"atime":"2019-10-11T07:39:31.332Z","mtime":"2019-10-11T07:39:31.332Z","ctime":"2019-10-11T07:39:31.333Z","birthtime":"2019-10-11T07:39:31.332Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-10-11 15:39:43,696 INFO 2003 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/saasworkspace","stat":{"dev":16777220,"mode":16877,"nlink":3,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":10121190,"size":96,"blocks":0,"atimeMs":1570779583686.0217,"mtimeMs":1570779583686.1326,"ctimeMs":1570779583686.1326,"birthtimeMs":1570779583686.0217,"atime":"2019-10-11T07:39:43.686Z","mtime":"2019-10-11T07:39:43.686Z","ctime":"2019-10-11T07:39:43.686Z","birthtime":"2019-10-11T07:39:43.686Z"},"remove":false,"isDirectory":true,"isFile":false}
+2019-10-11 15:40:55,639 INFO 2176 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-10-11 15:40:55,646 INFO 2176 [egg:core] dump config after load, 3ms
+2019-10-11 15:40:55,688 INFO 2176 [egg-watcher] Start watching: ["/Users/fangjianbing/work/oal/containerManager/app","/Users/fangjianbing/work/oal/containerManager/config","/Users/fangjianbing/work/oal/containerManager/mocks","/Users/fangjianbing/work/oal/containerManager/mocks_proxy","/Users/fangjianbing/work/oal/containerManager/app.js"]
+2019-10-11 15:40:55,689 INFO 2176 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/app"
+2019-10-11 15:40:55,689 INFO 2176 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/config"
+2019-10-11 15:40:55,689 INFO 2176 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/mocks"
+2019-10-11 15:40:55,689 INFO 2176 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/mocks_proxy"
+2019-10-11 15:40:55,689 INFO 2176 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/app.js"
+2019-10-11 15:40:55,689 INFO 2176 [egg-watcher:agent] watcher start success
+2019-10-11 15:40:55,699 INFO 2176 [egg:core] dump config after ready, 3ms
+2019-10-11 15:46:00,034 INFO 2200 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-10-11 15:46:00,040 INFO 2200 [egg:core] dump config after load, 3ms
+2019-10-11 15:46:00,074 INFO 2200 [egg-watcher] Start watching: ["/Users/fangjianbing/work/oal/containerManager/app","/Users/fangjianbing/work/oal/containerManager/config","/Users/fangjianbing/work/oal/containerManager/mocks","/Users/fangjianbing/work/oal/containerManager/mocks_proxy","/Users/fangjianbing/work/oal/containerManager/app.js"]
+2019-10-11 15:46:00,074 INFO 2200 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/app"
+2019-10-11 15:46:00,075 INFO 2200 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/config"
+2019-10-11 15:46:00,075 INFO 2200 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/mocks"
+2019-10-11 15:46:00,075 INFO 2200 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/mocks_proxy"
+2019-10-11 15:46:00,075 INFO 2200 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/app.js"
+2019-10-11 15:46:00,075 INFO 2200 [egg-watcher:agent] watcher start success
+2019-10-11 15:46:00,082 INFO 2200 [egg:core] dump config after ready, 3ms
+2019-10-11 15:47:54,919 WARN 2200 [agent:development] reload worker because /Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_old___ rename
+2019-10-11 15:47:54,713 INFO 2200 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_tmp___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-11 15:47:54,714 INFO 2200 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":10121488,"size":2145,"blocks":8,"atimeMs":1570780074650.745,"mtimeMs":1570780074650.854,"ctimeMs":1570780074651.6028,"birthtimeMs":1570780074650.745,"atime":"2019-10-11T07:47:54.651Z","mtime":"2019-10-11T07:47:54.651Z","ctime":"2019-10-11T07:47:54.652Z","birthtime":"2019-10-11T07:47:54.651Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-10-11 15:47:54,715 INFO 2200 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fangjianbing/work/oal/containerManager/app/service/dockerCmd.js___jb_old___","remove":true,"isDirectory":false,"isFile":false}
+2019-10-12 09:58:22,063 INFO 3831 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-10-12 09:58:22,069 INFO 3831 [egg:core] dump config after load, 2ms
+2019-10-12 09:58:22,109 INFO 3831 [egg-watcher] Start watching: ["/Users/fangjianbing/work/oal/containerManager/app","/Users/fangjianbing/work/oal/containerManager/config","/Users/fangjianbing/work/oal/containerManager/mocks","/Users/fangjianbing/work/oal/containerManager/mocks_proxy","/Users/fangjianbing/work/oal/containerManager/app.js"]
+2019-10-12 09:58:22,109 INFO 3831 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/app"
+2019-10-12 09:58:22,109 INFO 3831 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/config"
+2019-10-12 09:58:22,109 INFO 3831 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/mocks"
+2019-10-12 09:58:22,109 INFO 3831 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/mocks_proxy"
+2019-10-12 09:58:22,109 INFO 3831 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/app.js"
+2019-10-12 09:58:22,110 INFO 3831 [egg-watcher:agent] watcher start success
+2019-10-12 09:58:22,120 INFO 3831 [egg:core] dump config after ready, 3ms
+2019-11-09 15:21:23,979 INFO 2080 [egg:logger] init all loggers with options: {"dir":"/Users/fangjianbing/work/oal/containerManager/logs/containerManager","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"containerManager-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-11-09 15:21:23,987 INFO 2080 [egg:core] dump config after load, 5ms
+2019-11-09 15:21:24,019 INFO 2080 [egg-watcher] Start watching: ["/Users/fangjianbing/work/oal/containerManager/app","/Users/fangjianbing/work/oal/containerManager/config","/Users/fangjianbing/work/oal/containerManager/mocks","/Users/fangjianbing/work/oal/containerManager/mocks_proxy","/Users/fangjianbing/work/oal/containerManager/app.js"]
+2019-11-09 15:21:24,019 INFO 2080 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/app"
+2019-11-09 15:21:24,019 INFO 2080 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/config"
+2019-11-09 15:21:24,019 INFO 2080 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/mocks"
+2019-11-09 15:21:24,019 INFO 2080 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/mocks_proxy"
+2019-11-09 15:21:24,019 INFO 2080 [egg-watcher] Start watching: "/Users/fangjianbing/work/oal/containerManager/app.js"
+2019-11-09 15:21:24,020 INFO 2080 [egg-watcher:agent] watcher start success
+2019-11-09 15:21:24,027 INFO 2080 [egg:core] dump config after ready, 2ms
